@@ -1,8 +1,12 @@
 {
   "name": "nodejs-jenkins-build",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "build": "echo Build complete"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
-```
